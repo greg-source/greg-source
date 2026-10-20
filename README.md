@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Hryhorii 👋
 
-<!--
-**greg-source/greg-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer (Go) · AWS Certified Solutions Architect · AI-assisted engineering & agent orchestration
 
-Here are some ideas to get you started:
+I build high-load, event-driven backend systems in Go — 6 years across telecom,
+application security and food delivery. Big fan of Kubernetes, Helm and Docker,
+and of seeing things work in production: tests, observability, real results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** Go · AWS · Kafka · RabbitMQ · SQS · PostgreSQL · DynamoDB · Redis ·
+Kubernetes · Helm · Terraform · Prometheus · Grafana · Datadog
+
+**Find me:** [LinkedIn](https://www.linkedin.com/in/hryhorii-hrytsyniak-691b5b217/) ·
+[Upwork](https://www.upwork.com/freelancers/~01f877ee1201fc361d)
