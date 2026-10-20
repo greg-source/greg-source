@@ -1,7 +1,5 @@
 # Hi, I'm Hryhorii 👋
 
-Software Engineer (Go) · AWS Certified Solutions Architect · AI-assisted engineering & agent orchestration
-
 I build high-load, event-driven backend systems in Go — 6 years across telecom,
 application security and food delivery. Big fan of Kubernetes, Helm and Docker,
 and of seeing things work in production: tests, observability, real results.
